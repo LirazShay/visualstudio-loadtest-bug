@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\MSTest.exe" /testcontainer:"LoadTest1.loadtest" /testsettings:"../Local.testsettings"
