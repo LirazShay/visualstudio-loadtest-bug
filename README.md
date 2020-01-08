@@ -1,6 +1,8 @@
 # visualstudio-loadtest-bug
 For Microsoft only  
 Steps to reproduce the bug:
+The bug is that we cannot run loadtest locally using script (mstest)
+
 1.	I have vs2019 + vs 2017 installed, both with Web and Performance Tests
 2.	In vs2019 + vs 2017 I logged in and license is valid 
 3.	I have created a new project of Web and Performance Tests
